@@ -20,4 +20,5 @@ public class Box {
   public void setColor(String color) {
     this.color = color;
   }
+
 }

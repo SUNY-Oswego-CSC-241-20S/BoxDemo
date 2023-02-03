@@ -13,5 +13,11 @@ public class Main {
     // change the color of b2
     b2.setColor(b1.getColor()); // Set b2's color to that of b1
     System.out.println("B2 new color: " + b1.getColor());
+
+//    String myString = "Zoom is used today!";
+//    System.out.println("2 parameters: " + myString.substring(8,18));
+//    System.out.println("1 parameter: " + myString.substring(5));
+
+
   }
 }
